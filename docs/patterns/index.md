@@ -33,6 +33,10 @@ This index centralizes all LeetCode 75 patterns.
 - [Intervals](intervals.md)
 - [Monotonic Stack](monotonic-stack.md)
 
+## Exercises
+
+After studying a pattern, validate it with its easy exercise in the [Exercises Index](../exercises/index.md).
+
 ## Suggested Study Order
 
 1. Array / String

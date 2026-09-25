@@ -13,6 +13,7 @@ This repository is a Markdown reference base for studying LeetCode 75.
 - [Cheat Sheet](docs/cheat-sheet.md)
 - [Big O Index](docs/big-o/index.md)
 - [Patterns Index](docs/patterns/index.md)
+- [Exercises Index](docs/exercises/index.md)
 
 ## How to Use
 
@@ -20,4 +21,5 @@ This repository is a Markdown reference base for studying LeetCode 75.
 2. Use the `Big O` index to strengthen your complexity analysis.
 3. Use the `Patterns` index to study each pattern in order.
 4. Rebuild the TypeScript examples without looking at the solution.
-5. Use the YouTube links as a starting point for deeper study.
+5. Validate your understanding with one easy exercise per pattern in `Exercises`.
+6. Use the YouTube links as a starting point for deeper study.
